@@ -1,0 +1,13 @@
+# 虚拟环境
+venv/
+.env
+# 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+# Streamlit配置
+.streamlit/secrets.toml
+# 数据库文件（如果用SQLite）
+*.db
+# 日志文件
+*.log
